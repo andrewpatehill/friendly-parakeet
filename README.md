@@ -1,2 +1,0 @@
-# friendly-parakeet
-Nonstationarity Indicators
